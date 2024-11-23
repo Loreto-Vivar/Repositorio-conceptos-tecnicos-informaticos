@@ -11,12 +11,12 @@ Este repositorio cuenta con carpetas que se detallan de la siguiente manera:
 
 #### Carpetas:
 
-- [Clase_1] (Intrudción_Historia)
-- [Clase_2] (Conceptos)
-- [Clase_3] (Actividad)
-- [Clase_4] (Creación_Repositorio)
-- [Clase_5] (Ramas)
-- [Clase_6] (Página_web)
+- Clase_1_Intrudción_Historia
+- Clase_2_Conceptos
+- Clase_3_Actividad
+- Clase_4_Creación_Repositorio
+- Clase_5_Ramas
+- Clase_6_Página_web
 
 
 
