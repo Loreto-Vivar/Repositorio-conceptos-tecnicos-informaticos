@@ -1,7 +1,7 @@
 # Conceptos Técnicos Informáticos
 
 ## Descripción Genereal: 
-Este repositorio almacena todos los archivos, códigos y evaluaciones de la asignatura de Conceptos Técnicos Informáticos del Centro de Formación Técnica de la región de Los Lagos.
+Este repositorio almacena todos los archivos, códigos y evaluaciones de la asignatura de Conceptos Técnicos Informáticos del Centro de Formación Técnica de la región de Los Lagos, asignatura impartida por el profesor Marcelo Crisostomo.
 Información correspondiente al segundo semestre del años 2024.
 
 ### Estructura del Respositorio:
