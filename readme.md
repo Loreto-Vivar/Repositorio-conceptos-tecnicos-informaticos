@@ -1,26 +1,26 @@
 # Conceptos Técnicos Informáticos
 
-## Descripción Genereal: 
+## ℹ️ Descripción Genereal: 
 Este repositorio almacena todos los archivos, códigos y evaluaciones de la asignatura de Conceptos Técnicos Informáticos del Centro de Formación Técnica de la región de Los Lagos, asignatura impartida por el profesor Marcelo Crisostomo.
 Información correspondiente al segundo semestre del años 2024.
 
-### Estructura del Respositorio:
+### 🧐 Estructura del Respositorio:
 
 Este repositorio cuenta con carpetas que se detallan de la siguiente manera:
 
 
-#### Carpetas:
+#### 📁 Carpetas:
 
-- Clase_1_Intrudción_Historia
-- Clase_2_Conceptos
-- Clase_3_Actividad
-- Clase_4_Creación_Repositorio
-- Clase_5_Ramas
-- Clase_6_Página_web
+- 📁Clase_1_Intrudción_Historia
+- 📁Clase_2_Conceptos
+- 📁Clase_3_Actividad
+- 📁Clase_4_Creación_Repositorio
+- 📁Clase_5_Ramas
+- 📁Clase_6_Página_web
 
 
 
-#### Requisitos Previos:
+#### 👩🏽‍💻 Requisitos Previos:
 
 Para hacer uso de este repositorio de manera online, los contenidos son subidos a la plataforma de github, en donde se van actualizando semana a semana.
 Los archivos son actualizados a través del uso del programa llamado Visual Code, con la extención de Python. Para llevar a cabo este proceso se utilizan los siguientes códigos: 
@@ -39,7 +39,7 @@ Los archivos son actualizados a través del uso del programa llamado Visual Code
 | Python             | https://www.python.org/downloads/ |
 
 
-#### Clonación de este Respositorio:
+#### 🧐 Clonación de este Respositorio:
 
 Para clonar este repositorio debes contar con este código:
 
