@@ -4,12 +4,12 @@
 Este repositorio almacena todos los archivos, códigos y evaluaciones de la asignatura de Conceptos Técnicos Informáticos del Centro de Formación Técnica de la región de Los Lagos, asignatura impartida por el profesor Marcelo Crisostomo.
 Información correspondiente al segundo semestre del años 2024.
 
-### 🧐 Estructura del Respositorio:
+## 🧐 Estructura del Respositorio:
 
 Este repositorio cuenta con carpetas que se detallan de la siguiente manera:
 
 
-#### 📁 Carpetas:
+### 📁 Carpetas:
 
 - 📁Clase_1_Intrudción_Historia
 - 📁Clase_2_Conceptos
@@ -20,7 +20,7 @@ Este repositorio cuenta con carpetas que se detallan de la siguiente manera:
 
 
 
-#### 👩🏽‍💻 Requisitos Previos:
+### 👩🏽‍💻 Requisitos Previos:
 
 Para hacer uso de este repositorio de manera online, los contenidos son subidos a la plataforma de github, en donde se van actualizando semana a semana.
 Los archivos son actualizados a través del uso del programa llamado Visual Code, con la extención de Python. Para llevar a cabo este proceso se utilizan los siguientes códigos: 
@@ -31,7 +31,7 @@ Los archivos son actualizados a través del uso del programa llamado Visual Code
 4) git commit -m "..."
 5) git push origin master
 
-#### Los programas utilizados para este proceso son:
+### Los programas utilizados para este proceso son:
 
 | Programa utilizado | Link del programa                 |
 | ------------------ | ----------------------------------|
@@ -39,7 +39,7 @@ Los archivos son actualizados a través del uso del programa llamado Visual Code
 | Python             | https://www.python.org/downloads/ |
 
 
-#### 🧐 Clonación de este Respositorio:
+### 🧐 Clonación de este Respositorio:
 
 Para clonar este repositorio debes contar con este código:
 
@@ -53,10 +53,10 @@ Rama del repositorio de programación:
 ```
 
 
-#### Imagen de referencia de Visual Code:
+### Imagen de referencia de Visual Code:
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Vcode.png)
 
-#### Imagen de referencia de Python:
+### Imagen de referencia de Python:
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](python-3.svg)
